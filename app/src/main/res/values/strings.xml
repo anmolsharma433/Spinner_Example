@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClassEx</string>
+    <string-array name="Countries">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Europe</item>
+
+
+
+    </string-array>
+</resources>
